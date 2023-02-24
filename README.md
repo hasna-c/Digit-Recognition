@@ -3,6 +3,4 @@ or a sequence of images.Here used  a CNN architecture using a LeNet design on th
 
 Technology Used:
 
--Data augmentation
--Hyper-parameter tuning
--Ensembling
+-Data augmentation,Hyper-parameter tuning,Ensembling
